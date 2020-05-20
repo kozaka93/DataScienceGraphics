@@ -14,4 +14,4 @@ My graphics for Data Science
 ### Diagrams
 - [Story House Sale Prices: eXplainable predictions for house sale](https://pbiecek.github.io/xai_stories/story-house-sale-prices.html#fig:plan)
 
-<img src="Graphics/Diagrams/02-plan.png" align="center" width="300"/>
+<img src="Graphics/Diagrams/02-plan.png" align="center" width="600"/>
